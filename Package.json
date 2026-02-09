@@ -1,0 +1,21 @@
+{
+  "name": "newshub",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "14.0.14",
+    "react": "^18",
+    "react-dom": "^18",
+    "framer-motion": "^11.5.4"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.10",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.47"
+  }
+}
